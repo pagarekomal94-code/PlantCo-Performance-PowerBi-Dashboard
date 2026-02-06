@@ -5,4 +5,5 @@ Using Power BI, the dashboard provides an interactive and consolidated view of b
 
 The solution helps management monitor current-year performance against previous-year benchmarks, evaluate country-wise contribution, and assess customer profitability to support data-driven strategic decisions.
 
-<img width="691" height="341" alt="image" src="https://github.com/user-attachments/assets/b3af53d0-94db-4a12-af1f-85f0e9cb8d82" />
+<img width="604" height="338" alt="image" src="https://github.com/user-attachments/assets/db6da808-562b-437e-aac8-190ae59a1382" />
+
